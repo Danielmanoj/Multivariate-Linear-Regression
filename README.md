@@ -39,11 +39,6 @@ predictedCO2=regr.predict([[3300,1300]])
 print("Predicted CO@ for the corresponding weight and volume",predictedCO2)
 
 
-
-
-
-
-
 ```
 ## Output:
 ```
